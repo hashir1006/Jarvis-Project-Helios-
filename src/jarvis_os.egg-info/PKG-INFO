@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: jarvis-os
+Version: 0.1.0
+Summary: AI Operating Layer for Windows
+Author: Hashir
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# JARVIS OS
