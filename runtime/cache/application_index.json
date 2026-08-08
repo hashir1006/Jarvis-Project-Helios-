@@ -1,7 +1,7 @@
 [
     {
         "name": "Bright VPN 1.566.436",
-        "executable": "\"C:\\Program Files (x86)\\Bright VPN\\Uninstall Bright VPN.exe\" /allusers",
+        "executable": "",
         "install_path": ".",
         "version": "1.566.436",
         "publisher": "Bright Data Ltd.",
@@ -11,7 +11,7 @@
     },
     {
         "name": "7-Zip 24.09 (x64)",
-        "executable": "\"C:\\Program Files\\7-Zip\\Uninstall.exe\"",
+        "executable": "C:\\Program Files\\7-Zip\\7zFM.exe",
         "install_path": "C:\\Program Files\\7-Zip",
         "version": "24.09",
         "publisher": "Igor Pavlov",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Android Studio",
-        "executable": "C:\\Program Files\\Android\\Android Studio\\uninstall.exe",
+        "executable": "",
         "install_path": ".",
         "version": "2025.2",
         "publisher": "Google LLC",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Armoury Crate Service",
-        "executable": "\"C:\\Program Files\\ASUS\\Armoury Crate Service\\ArmouryCrate.Uninstaller.exe\"",
+        "executable": "",
         "install_path": ".",
         "version": "6.5.7.0",
         "publisher": "ASUSTeK COMPUTER INC.",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Autodesk Identity Manager",
-        "executable": "\"C:\\Program Files\\Autodesk\\AdskIdentityManager\\uninstall.exe\"",
+        "executable": "C:\\Program Files\\Autodesk\\AdskIdentityManager\\1.15.3.5\\CER\\service\\cer_service.exe",
         "install_path": "C:\\Program Files\\Autodesk\\AdskIdentityManager\\1.15.3.5",
         "version": "1.15.3.5",
         "publisher": "Autodesk",
@@ -51,7 +51,7 @@
     },
     {
         "name": "DAEMON Tools Lite",
-        "executable": "C:\\Program Files\\DAEMON Tools Lite\\uninst.exe",
+        "executable": "",
         "install_path": ".",
         "version": "12.6.0.2458",
         "publisher": "Disc Soft Ltd",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Git",
-        "executable": "\"C:\\Program Files\\Git\\unins000.exe\"",
+        "executable": "C:\\Program Files\\Git\\mingw64\\bin\\git-lfs.exe",
         "install_path": "C:\\Program Files\\Git",
         "version": "2.52.0",
         "publisher": "The Git Development Community",
@@ -71,7 +71,7 @@
     },
     {
         "name": "IntelliJ IDEA 2025.2.3",
-        "executable": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2.3\\bin\\Uninstall.exe",
+        "executable": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2.3\\plugins\\station-plugin\\toolbox\\jetbrains-toolbox-2.8.1.52155.exe",
         "install_path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2.3",
         "version": "252.26830.84",
         "publisher": "JetBrains s.r.o.",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Microsoft 365 - en-us",
-        "executable": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_en-us_x-none culture=en-us version.16=16.0",
+        "executable": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
         "install_path": "C:\\Program Files\\Microsoft Office",
         "version": "16.0.14326.20144",
         "publisher": "Microsoft Corporation",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Microsoft OneDrive",
-        "executable": "\"C:\\Program Files\\Microsoft OneDrive\\26.129.0706.0004\\OneDriveSetup.exe\"  /uninstall  /allusers ",
+        "executable": "",
         "install_path": ".",
         "version": "26.129.0706.0004",
         "publisher": "Microsoft Corporation",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Microsoft OneNote - en-us",
-        "executable": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0",
+        "executable": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
         "install_path": "C:\\Program Files\\Microsoft Office",
         "version": "16.0.14326.20144",
         "publisher": "Microsoft Corporation",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Microsoft Office Professional Plus 2021 - en-us",
-        "executable": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlus2021Retail.16_en-us_x-none culture=en-us version.16=16.0",
+        "executable": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
         "install_path": "C:\\Program Files\\Microsoft Office",
         "version": "16.0.14326.20144",
         "publisher": "Microsoft Corporation",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Stumble Guys",
-        "executable": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1677740",
+        "executable": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stumble Guys\\Stumble Guys.exe",
         "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stumble Guys",
         "version": null,
         "publisher": "Scopely",
@@ -131,7 +131,7 @@
     },
     {
         "name": "PUBG: BATTLEGROUNDS",
-        "executable": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/578080",
+        "executable": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PUBG\\TslGame\\Binaries\\Win64\\TslGame.exe",
         "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PUBG",
         "version": null,
         "publisher": "PUBG Corporation",
@@ -141,7 +141,7 @@
     },
     {
         "name": "VLC media player",
-        "executable": "\"C:\\Program Files\\VideoLAN\\VLC\\uninstall.exe\"",
+        "executable": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
         "install_path": "C:\\Program Files\\VideoLAN\\VLC",
         "version": "3.0.21",
         "publisher": "VideoLAN",
@@ -151,7 +151,7 @@
     },
     {
         "name": "WinRAR 7.12 (64-bit)",
-        "executable": "C:\\Program Files\\WinRAR\\uninstall.exe",
+        "executable": "C:\\Program Files\\WinRAR\\WinRAR.exe",
         "install_path": "C:\\Program Files\\WinRAR",
         "version": "7.12.0",
         "publisher": "win.rar GmbH",
@@ -160,18 +160,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
-        "executable": "MsiExec.exe /X{010792BA-551A-3AC0-A7EF-0FAB4156C382}",
-        "install_path": ".",
-        "version": "12.0.40664",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Aac_NBDT HAL",
-        "executable": "MsiExec.exe /I{01D3B7AA-D078-4506-B460-60877FCDDBD6}",
+        "executable": "",
         "install_path": ".",
         "version": "2.5.40.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -181,7 +171,7 @@
     },
     {
         "name": "Node.js",
-        "executable": "MsiExec.exe /I{0463EF6C-7AE0-4657-970D-FD4634A98A35}",
+        "executable": "",
         "install_path": ".",
         "version": "22.20.0",
         "publisher": "Node.js Foundation",
@@ -191,7 +181,7 @@
     },
     {
         "name": "Microsoft GameInput",
-        "executable": "MsiExec.exe /I{14EDF950-06B9-415F-862C-1D5DEC321AE6}",
+        "executable": "",
         "install_path": ".",
         "version": "3.3.221.0",
         "publisher": "Microsoft Corporation",
@@ -201,7 +191,7 @@
     },
     {
         "name": "ASUS Ambient HAL",
-        "executable": "MsiExec.exe /I{158AC6D1-5591-4BA5-AE57-50B66F1055AA}",
+        "executable": "",
         "install_path": ".",
         "version": "7.20.0.0",
         "publisher": "ASUSTeK COMPUTER INC.",
@@ -211,7 +201,7 @@
     },
     {
         "name": "ASUS Hotplug Controller",
-        "executable": "MsiExec.exe /I{167A9DAC-ED7E-42CC-9A58-9E7A0C24B91F}",
+        "executable": "",
         "install_path": ".",
         "version": "3.0.0",
         "publisher": "ASUS",
@@ -221,7 +211,7 @@
     },
     {
         "name": "Microsoft .NET Host - 6.0.16 (x64)",
-        "executable": "MsiExec.exe /X{1D0AC7F1-2B34-44AF-91F6-88757D768DA7}",
+        "executable": "",
         "install_path": ".",
         "version": "48.67.58427",
         "publisher": "Microsoft Corporation",
@@ -230,18 +220,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
-        "executable": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
-        "install_path": ".",
-        "version": "10.0.40219",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "spacedesk Windows DRIVER",
-        "executable": "MsiExec.exe /X{1EEF0C95-5D2C-4125-BFB7-18D9578BE5D6}",
+        "executable": "",
         "install_path": ".",
         "version": "2.2.08.0",
         "publisher": "datronicsoft Inc.",
@@ -251,7 +231,7 @@
     },
     {
         "name": "Python 3.13.7 Add to Path (64-bit)",
-        "executable": "MsiExec.exe /I{235C9435-3313-4658-881D-5A7E559A5A41}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -261,7 +241,7 @@
     },
     {
         "name": "ROG Live Service",
-        "executable": "MsiExec.exe /I{2D87BFB6-C184-4A59-9BBE-3E20CE797631}",
+        "executable": "",
         "install_path": ".",
         "version": "3.5.6.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -270,18 +250,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Windows Desktop Runtime - 7.0.14 (x64)",
-        "executable": "MsiExec.exe /X{33ED69D3-7E88-4885-9875-6C0711368017}",
-        "install_path": ".",
-        "version": "56.56.4039",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.7 Test Suite (64-bit debug)",
-        "executable": "MsiExec.exe /I{34836B32-0174-4742-96FD-B73B625576B0}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -290,18 +260,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135",
-        "executable": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
-        "install_path": ".",
-        "version": "11.0.61135",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.7 Tcl/Tk Support (64-bit symbols)",
-        "executable": "MsiExec.exe /I{3CE7E783-11DD-4B7E-AECE-0E92686DB034}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -311,7 +271,7 @@
     },
     {
         "name": "Python 3.13.7 Freethreaded Interpreter (64-bit symbols)",
-        "executable": "MsiExec.exe /I{43905732-26EB-4729-A33D-8DA97E319BAC}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -321,7 +281,7 @@
     },
     {
         "name": "Python 3.13.7 Standard Library (64-bit debug)",
-        "executable": "MsiExec.exe /I{4AF682C4-8DA6-42E1-90A4-120FD54CACEF}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -331,7 +291,7 @@
     },
     {
         "name": "MySQL Server 8.0",
-        "executable": "MsiExec.exe /I{53B5AF61-2062-4132-A7EE-C9A8FF652120}",
+        "executable": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe",
         "install_path": "C:\\Program Files\\MySQL\\MySQL Server 8.0",
         "version": "8.0.43",
         "publisher": "Oracle Corporation",
@@ -340,18 +300,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
-        "executable": "MsiExec.exe /X{53CF6934-A98D-3D84-9146-FC4EDF3D5641}",
-        "install_path": ".",
-        "version": "12.0.40664",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "DB Browser for SQLite",
-        "executable": "MsiExec.exe /I{541AE182-7C1D-426C-8155-4867303B75A4}",
+        "executable": "C:\\Program Files\\DB Browser for SQLite\\DB Browser for SQLite.exe",
         "install_path": "C:\\Program Files\\DB Browser for SQLite",
         "version": "3.13.1",
         "publisher": "DB Browser for SQLite Team",
@@ -361,7 +311,7 @@
     },
     {
         "name": "MySQL Workbench 8.0 CE",
-        "executable": "MsiExec.exe /I{593674B6-8B0D-4E23-8413-6B0E0DA19552}",
+        "executable": "",
         "install_path": ".",
         "version": "8.0.46",
         "publisher": "Oracle Corporation",
@@ -371,7 +321,7 @@
     },
     {
         "name": "Python 3.13.7 Development Libraries (64-bit debug)",
-        "executable": "MsiExec.exe /I{5A02AC9D-F9FF-4F6C-B3CD-153A8E72A4ED}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -381,7 +331,7 @@
     },
     {
         "name": "Autodesk Save to Web and Mobile",
-        "executable": "MsiExec.exe /X{5BF7551A-09A6-4BDD-AE1E-048104FB478C}",
+        "executable": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe",
         "install_path": "C:\\Program Files\\Autodesk",
         "version": "3.1.8",
         "publisher": "Autodesk",
@@ -391,7 +341,7 @@
     },
     {
         "name": "Python 3.13.2 pip Bootstrap (64-bit)",
-        "executable": "MsiExec.exe /I{5E8E4228-121B-49EA-9CC2-B8E3CBED5080}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -401,7 +351,7 @@
     },
     {
         "name": "Python 3.13.2 Executables (64-bit)",
-        "executable": "MsiExec.exe /I{5EEECB0A-2BEA-4A17-8F52-33853A198059}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -410,38 +360,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Tcl/Tk Support (64-bit debug)",
-        "executable": "MsiExec.exe /I{5F0A33FA-2FBB-42A5-B69F-3680A7593542}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523",
-        "executable": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
-        "install_path": ".",
-        "version": "9.0.30729.7523",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
-        "executable": "MsiExec.exe /X{610487D9-3460-328A-9333-219D43A75CC5}",
-        "install_path": ".",
-        "version": "10.0.60922",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.2 Core Interpreter (64-bit)",
-        "executable": "MsiExec.exe /I{6B2067F5-FABB-4E5D-9769-ACF1886A7281}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -451,37 +371,7 @@
     },
     {
         "name": "Python 3.13.7 Core Interpreter (64-bit symbols)",
-        "executable": "MsiExec.exe /I{6B25451D-F98F-43D9-A4F2-E8D06B1C2FC0}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.7 Test Suite (64-bit)",
-        "executable": "MsiExec.exe /I{6BD2B618-9A2B-47D9-B24B-2F05BD2768E4}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247",
-        "executable": "MsiExec.exe /I{6FA797CF-6B76-4B6D-87EE-768F92008720}",
-        "install_path": ".",
-        "version": "14.51.36247",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.7 Standard Library (64-bit symbols)",
-        "executable": "MsiExec.exe /I{6FCFC6F4-20C2-424B-9311-FF514E5D7883}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -491,7 +381,7 @@
     },
     {
         "name": "Microsoft .NET Host - 8.0.21 (x64)",
-        "executable": "MsiExec.exe /X{72357746-B194-485C-A161-FB80F419DC20}",
+        "executable": "",
         "install_path": ".",
         "version": "64.84.40925",
         "publisher": "Microsoft Corporation",
@@ -501,7 +391,7 @@
     },
     {
         "name": "Java(TM) SE Development Kit 25.0.1 (64-bit)",
-        "executable": "MsiExec.exe /X{72BBCED8-ABF7-5620-B89C-4081C82552AC}",
+        "executable": "C:\\Program Files\\Java\\jdk-25\\bin\\jaccessinspector.exe",
         "install_path": "C:\\Program Files\\Java\\jdk-25",
         "version": "25.0.1.0",
         "publisher": "Oracle Corporation",
@@ -511,7 +401,7 @@
     },
     {
         "name": "MySQL Shell",
-        "executable": "MsiExec.exe /X{74524FB8-BBD1-47DE-8CCB-83D106E78E82}",
+        "executable": "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\mysqlsh.exe",
         "install_path": "C:\\Program Files\\MySQL\\MySQL Shell 8.0",
         "version": "8.0.43",
         "publisher": "Oracle Corporation",
@@ -520,38 +410,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Core Interpreter (64-bit debug)",
-        "executable": "MsiExec.exe /I{774BDC88-12C2-4287-BE80-6594B7D12ED2}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Java 8 Update 471 (64-bit)",
-        "executable": "MsiExec.exe /X{77924AE4-039E-4CA4-87B4-2F64180471F0}",
-        "install_path": "C:\\Program Files\\Java\\jre1.8.0_471",
-        "version": "8.0.4710.9",
-        "publisher": "Oracle Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.2 Documentation (64-bit)",
-        "executable": "MsiExec.exe /I{78405CCF-67BD-4630-ADE2-ADB5D09AC347}",
-        "install_path": ".",
-        "version": "3.13.2150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.2 Development Libraries (64-bit)",
-        "executable": "MsiExec.exe /I{7864E49A-A67D-4FA4-A3A6-E5049FCBBBF0}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -561,7 +421,7 @@
     },
     {
         "name": "MySQL Router 8.0",
-        "executable": "MsiExec.exe /I{7C1CBDF5-7F1B-4C71-A977-809783167855}",
+        "executable": "C:\\Program Files\\MySQL\\MySQL Router 8.0\\bin\\mysqlrouter.exe",
         "install_path": "C:\\Program Files\\MySQL\\MySQL Router 8.0",
         "version": "8.0.43",
         "publisher": "Oracle Corporation",
@@ -571,7 +431,7 @@
     },
     {
         "name": "Python 3.13.7 Executables (64-bit symbols)",
-        "executable": "MsiExec.exe /I{7D675743-4780-4EEA-8385-EBFC604096B1}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -581,7 +441,7 @@
     },
     {
         "name": "Python 3.13.2 Standard Library (64-bit)",
-        "executable": "MsiExec.exe /I{89609059-34FF-4C34-8D70-2FF7FA4B2490}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -591,7 +451,7 @@
     },
     {
         "name": "Eclipse Temurin JDK with Hotspot 17.0.16+8 (x64)",
-        "executable": "MsiExec.exe /I{8D9A718A-EA20-4781-96BE-648C98741329}",
+        "executable": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.16.8-hotspot\\bin\\jaccessinspector.exe",
         "install_path": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.16.8-hotspot",
         "version": "17.0.16.8",
         "publisher": "Eclipse Adoptium",
@@ -601,7 +461,7 @@
     },
     {
         "name": "Office 16 Click-to-Run Licensing Component",
-        "executable": "MsiExec.exe /I{90160000-007E-0000-1000-0000000FF1CE}",
+        "executable": "",
         "install_path": ".",
         "version": "16.0.14326.20144",
         "publisher": "Microsoft Corporation",
@@ -611,7 +471,7 @@
     },
     {
         "name": "Office 16 Click-to-Run Extensibility Component",
-        "executable": "MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}",
+        "executable": "",
         "install_path": ".",
         "version": "16.0.14326.20144",
         "publisher": "Microsoft Corporation",
@@ -620,18 +480,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247",
-        "executable": "MsiExec.exe /I{931A2CF0-2404-45EA-82F5-345735AE6A90}",
-        "install_path": ".",
-        "version": "14.51.36247",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ViGEm Bus Driver",
-        "executable": "MsiExec.exe /X{966606F3-2745-49E9-BF15-5C3EAA4E9077}",
+        "executable": "C:\\Program Files\\Nefarius Software Solutions\\ViGEm Bus Driver\\nefconw.exe",
         "install_path": "C:\\Program Files\\Nefarius Software Solutions\\ViGEm Bus Driver",
         "version": "1.22.0",
         "publisher": "Nefarius Software Solutions e.U.",
@@ -640,28 +490,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Test Suite (64-bit symbols)",
-        "executable": "MsiExec.exe /I{96731044-C223-4AEE-A7AE-4799025AE4FB}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.7 Development Libraries (64-bit)",
-        "executable": "MsiExec.exe /I{96A23710-E014-4A5B-96A1-DE64AC37251B}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Aac_GmAcc HAL",
-        "executable": "MsiExec.exe /I{998249B1-6913-447E-AA37-F445B8CA33D0}",
+        "executable": "",
         "install_path": ".",
         "version": "1.0.12.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -670,58 +500,18 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 7.0.14 (x64)",
-        "executable": "MsiExec.exe /X{9C583D0D-D10B-4E33-A3A8-CD07B6DB9E2D}",
-        "install_path": ".",
-        "version": "56.56.4026",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft .NET Runtime - 8.0.11 (x64)",
-        "executable": "MsiExec.exe /X{9C80213E-9079-4561-8D57-1FDD0D62251F}",
-        "install_path": ".",
-        "version": "64.44.23191",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Microsoft .NET Host - 7.0.14 (x64)",
-        "executable": "MsiExec.exe /X{9C80B2AB-2F2D-45B3-A287-DDA827E3A561}",
+        "executable": "",
         "install_path": ".",
         "version": "56.56.4026",
         "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "GlideX Service Installer",
-        "executable": "MsiExec.exe /I{A06BDD76-D95C-4AC7-A0DA-73971F366D9B}",
-        "install_path": ".",
-        "version": "4.1.5.0",
-        "publisher": "ASUSTeK COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.7 Standard Library (64-bit)",
-        "executable": "MsiExec.exe /I{A139F43E-8105-465D-AC80-28F349CBE08D}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
         "category": null,
         "icon": null,
         "capabilities": null
     },
     {
         "name": "Autodesk Access",
-        "executable": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Installer.exe -i uninstall --trigger_point system -m C:\\ProgramData\\Autodesk\\ODIS\\metadata\\{A3158B3E-5F28-358A-BF1A-9532D8EBC811}\\setup.xml -x \"C:\\Program Files\\Autodesk\\AdODIS\\V1\\SetupRes\\manifest.xsd\" --manifest_type package",
+        "executable": "C:\\Program Files\\Autodesk\\AdODIS\\V1\\Setup\\ui-launcher\\AdskAccessUIHost.exe",
         "install_path": "C:\\Program Files\\Autodesk",
         "version": "2.21.0.559",
         "publisher": "Autodesk, Inc.",
@@ -730,18 +520,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Tcl/Tk Support (64-bit)",
-        "executable": "MsiExec.exe /I{A65B1339-6492-4CA4-AEB5-2B25A83A20B9}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Microsoft ASP.NET Core 8.0.11 Shared Framework (x64)",
-        "executable": "MsiExec.exe /X{A79CA1F2-D440-3F40-9898-6C1A5E1DD40E}",
+        "executable": "",
         "install_path": ".",
         "version": "8.0.11.24521",
         "publisher": "Microsoft Corporation",
@@ -751,7 +531,7 @@
     },
     {
         "name": "Microsoft Teams Meeting Add-in for Microsoft Office",
-        "executable": "MsiExec.exe /I{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+        "executable": "",
         "install_path": ".",
         "version": "1.24.31301",
         "publisher": "Microsoft",
@@ -761,7 +541,7 @@
     },
     {
         "name": "Python 3.13.2 Tcl/Tk Support (64-bit)",
-        "executable": "MsiExec.exe /I{A8BA555F-4CCF-4B73-8205-C9529D178E57}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -771,7 +551,7 @@
     },
     {
         "name": "Adobe Acrobat (64-bit)",
-        "executable": "MsiExec.exe /I{AC76BA86-1033-1033-7760-BC15014EA700}",
+        "executable": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\AdobeCollabSync.exe",
         "install_path": "C:\\Program Files\\Adobe\\Acrobat DC",
         "version": "26.001.21771",
         "publisher": "Adobe",
@@ -780,18 +560,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2005 Redistributable (x64)",
-        "executable": "MsiExec.exe /X{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}",
-        "install_path": ".",
-        "version": "8.0.61186",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Keyboard HAL",
-        "executable": "MsiExec.exe /I{AF92E89C-547B-4043-9298-0BAABD1F70EA}",
+        "executable": "",
         "install_path": ".",
         "version": "1.2.55.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -801,7 +571,7 @@
     },
     {
         "name": "ASUS Mouse HAL",
-        "executable": "MsiExec.exe /I{B10F0624-60C6-4527-9CD8-C677A7B3A545}",
+        "executable": "",
         "install_path": ".",
         "version": "1.2.0.84",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -811,7 +581,7 @@
     },
     {
         "name": "NVIDIA Graphics Driver 610.62",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.Driver",
+        "executable": "",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{FCDF83D6-C7B7-4263-9A44-1199BD463B09}",
         "version": "610.62",
         "publisher": "NVIDIA Corporation",
@@ -821,7 +591,7 @@
     },
     {
         "name": "NVIDIA App 11.0.8.299",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.NvApp",
+        "executable": "",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.{E4C2FEAA-1A56-421E-BFE7-B1CBACD4993E}",
         "version": "11.0.8.299",
         "publisher": "NVIDIA Corporation",
@@ -861,7 +631,7 @@
     },
     {
         "name": "NVIDIA PhysX System Software 9.23.1019",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.PhysX",
+        "executable": "",
         "install_path": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX",
         "version": "9.23.1019",
         "publisher": "NVIDIA Corporation",
@@ -871,7 +641,7 @@
     },
     {
         "name": "NVIDIA FrameView SDK 1.8.12612.38276700",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage FrameViewSdk",
+        "executable": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\nvfvsdksvc_x64.exe",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK",
         "version": "1.8.12612.38276700",
         "publisher": "NVIDIA Corporation",
@@ -881,7 +651,7 @@
     },
     {
         "name": "NVIDIA HD Audio Driver 1.4.5.7",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage HDAudio.Driver",
+        "executable": "",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{AC27DBCD-E7C8-44CE-A0BB-065D31F8DD55}",
         "version": "1.4.5.7",
         "publisher": "NVIDIA Corporation",
@@ -890,18 +660,8 @@
         "capabilities": null
     },
     {
-        "name": "NVIDIA Install Application",
-        "executable": "",
-        "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore",
-        "version": "2.1002.463.0",
-        "publisher": "NVIDIA Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "NVIDIA Container",
-        "executable": "",
+        "executable": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer",
         "version": "1.48",
         "publisher": "NVIDIA Corporation",
@@ -991,7 +751,7 @@
     },
     {
         "name": "NVIDIA ShadowPlay 11.0.8.0",
-        "executable": "",
+        "executable": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay\\nvsphelper64.exe",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay",
         "version": "11.0.8.0",
         "publisher": "NVIDIA Corporation",
@@ -1001,7 +761,7 @@
     },
     {
         "name": "NVIDIA USBC Driver 1.52.831.832",
-        "executable": "\"C:\\Windows\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage USBC",
+        "executable": "",
         "install_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\USBC.{07B37ECE-8D53-4CBF-8C55-2016041DEF2F}",
         "version": "1.52.831.832",
         "publisher": "NVIDIA Corporation",
@@ -1021,7 +781,7 @@
     },
     {
         "name": "Microsoft .NET Host FX Resolver - 8.0.21 (x64)",
-        "executable": "MsiExec.exe /X{B382D796-20D3-45DA-AB94-E98D99668B10}",
+        "executable": "",
         "install_path": ".",
         "version": "64.84.40925",
         "publisher": "Microsoft Corporation",
@@ -1031,7 +791,7 @@
     },
     {
         "name": "Epic Games Launcher",
-        "executable": "MsiExec.exe /X{B577CAE1-DBF4-4155-B5E2-07A91DEC7345}",
+        "executable": "C:\\Program Files\\Epic Games\\Launcher\\Portal\\Extras\\EOS\\EpicOnlineServicesInstaller.exe",
         "install_path": "C:\\Program Files\\Epic Games",
         "version": "1.3.161.0",
         "publisher": "Epic Games, Inc.",
@@ -1041,7 +801,7 @@
     },
     {
         "name": "MongoDB 8.2.6 2008R2Plus SSL (64 bit)",
-        "executable": "MsiExec.exe /I{B6C83B7C-584C-43A0-B0F3-9EE25F9683DD}",
+        "executable": "",
         "install_path": ".",
         "version": "8.2.6",
         "publisher": "MongoDB Inc.",
@@ -1051,7 +811,7 @@
     },
     {
         "name": "Microsoft .NET Host FX Resolver - 6.0.16 (x64)",
-        "executable": "MsiExec.exe /X{B8537ACA-B210-4DF5-B928-E41CEB76723D}",
+        "executable": "",
         "install_path": ".",
         "version": "48.67.58427",
         "publisher": "Microsoft Corporation",
@@ -1061,7 +821,7 @@
     },
     {
         "name": "Virtual Assistant",
-        "executable": "MsiExec.exe /I{B9B6590E-885B-4856-B123-A6CB814ADB1B}",
+        "executable": "",
         "install_path": ".",
         "version": "4.3.5",
         "publisher": "ASUS",
@@ -1070,28 +830,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Core Interpreter (64-bit)",
-        "executable": "MsiExec.exe /I{BE75E968-78F4-411D-92E4-73EC3043F7E4}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Windows Desktop Runtime - 8.0.11 (x64)",
-        "executable": "MsiExec.exe /X{C0790AA0-0F40-4836-85B2-677B87625E63}",
-        "install_path": ".",
-        "version": "64.44.23253",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Autodesk CER",
-        "executable": "MsiExec.exe /I{C2895666-EC78-4E43-A590-A744CEDD756A}",
+        "executable": "",
         "install_path": ".",
         "version": "7.2.2.923",
         "publisher": "Autodesk Inc.",
@@ -1100,18 +840,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Executables (64-bit debug)",
-        "executable": "MsiExec.exe /I{C4F369DB-F3E3-40C2-95CC-39AE4E3B6585}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "AURA lighting effect add-on x64",
-        "executable": "MsiExec.exe /I{C5A4A164-4428-4931-B728-96EEF0FA3C44}",
+        "executable": "",
         "install_path": ".",
         "version": "0.0.55",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -1120,18 +850,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 6.0.16 (x64)",
-        "executable": "MsiExec.exe /X{C71E93D2-B8B4-4858-B2A1-4C967DBC1C5F}",
-        "install_path": ".",
-        "version": "48.67.58427",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.7 pip Bootstrap (64-bit)",
-        "executable": "MsiExec.exe /I{CD31E178-F872-466B-A231-9C8AA53A89FD}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -1140,18 +860,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135",
-        "executable": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
-        "install_path": ".",
-        "version": "11.0.61135",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Aura SDK",
-        "executable": "MsiExec.exe /I{CF8E6E00-9C03-4440-81C0-21FACB921A6B}",
+        "executable": "",
         "install_path": ".",
         "version": "3.07.05",
         "publisher": "ASUSTeK COMPUTER INC.",
@@ -1160,18 +870,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Documentation (64-bit)",
-        "executable": "MsiExec.exe /I{CFAAA24B-16EF-4D9D-80A5-F67798771571}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Microsoft .NET Host FX Resolver - 7.0.14 (x64)",
-        "executable": "MsiExec.exe /X{D8110067-D041-4061-84F4-DAB281E54EAC}",
+        "executable": "",
         "install_path": ".",
         "version": "56.56.4026",
         "publisher": "Microsoft Corporation",
@@ -1180,28 +880,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Freethreaded Interpreter (64-bit debug)",
-        "executable": "MsiExec.exe /I{E2184796-6039-4C8D-AFA2-F70616B6DDC3}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python 3.13.7 Executables (64-bit)",
-        "executable": "MsiExec.exe /I{E4047598-558F-4468-8B53-9FCEF7F86E0D}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python 3.13.2 Test Suite (64-bit)",
-        "executable": "MsiExec.exe /I{E77A600D-F93D-4182-A270-FFBEC7D476B9}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.2150.0",
         "publisher": "Python Software Foundation",
@@ -1211,7 +891,7 @@
     },
     {
         "name": "ASUS Monitor Control",
-        "executable": "MsiExec.exe /I{EAA11E50-08F8-4014-AA24-166AC5FD2DCE}",
+        "executable": "",
         "install_path": ".",
         "version": "1.0.15",
         "publisher": "ASUS",
@@ -1220,18 +900,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 8.0.21 (x64)",
-        "executable": "MsiExec.exe /X{EEFB29A5-3E62-4DCE-8527-0DF45D780126}",
-        "install_path": ".",
-        "version": "64.84.40925",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Microsoft .NET Host FX Resolver - 8.0.11 (x64)",
-        "executable": "MsiExec.exe /X{F59C11F0-D73F-452B-8D1D-8C33B82D8507}",
+        "executable": "",
         "install_path": ".",
         "version": "64.44.23191",
         "publisher": "Microsoft Corporation",
@@ -1241,7 +911,7 @@
     },
     {
         "name": "AutoCAD Open in Desktop",
-        "executable": "MsiExec.exe /I{F67CF5AA-24B6-4904-A243-83D97FCEDF89}",
+        "executable": "",
         "install_path": ".",
         "version": "1.0.28.0",
         "publisher": "Autodesk",
@@ -1250,18 +920,8 @@
         "capabilities": null
     },
     {
-        "name": "Python 3.13.7 Freethreaded Interpreter (64-bit)",
-        "executable": "MsiExec.exe /I{FAEE0856-AB51-4C92-90A9-5DFB9E163C97}",
-        "install_path": ".",
-        "version": "3.13.7150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Adobe Genuine Service",
-        "executable": "C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AdobeCleanUpUtility.exe",
+        "executable": "C:Program",
         "install_path": ".",
         "version": "10.0.2.1",
         "publisher": "Adobe Inc.",
@@ -1271,9 +931,9 @@
     },
     {
         "name": "Brave",
-        "executable": "\"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\151.1.93.132\\Installer\\setup.exe\" --uninstall --system-level",
+        "executable": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\151.1.93.134\\BraveVpnWireguardService\\brave_vpn_wireguard_service.exe",
         "install_path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application",
-        "version": "151.1.93.132",
+        "version": "151.1.93.134",
         "publisher": "Brave Software Inc",
         "category": null,
         "icon": null,
@@ -1281,7 +941,7 @@
     },
     {
         "name": "emu8086 microprocessor emulator",
-        "executable": "\"c:\\emu8086\\unins000.exe\"",
+        "executable": "c:\\emu8086\\emu8086.exe",
         "install_path": "c:\\emu8086",
         "version": null,
         "publisher": "emu8086",
@@ -1291,7 +951,7 @@
     },
     {
         "name": "Google Chrome",
-        "executable": "\"C:\\Program Files\\Google\\Chrome\\Application\\151.0.7922.108\\Installer\\setup.exe\" --uninstall --channel=stable --system-level --verbose-logging",
+        "executable": "C:\\Program Files\\Google\\Chrome\\Application\\new_chrome.exe",
         "install_path": "C:\\Program Files\\Google\\Chrome\\Application",
         "version": "151.0.7922.108",
         "publisher": "Google LLC",
@@ -1301,7 +961,7 @@
     },
     {
         "name": "Adobe Lightroom Classic",
-        "executable": "\"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\HDBox\\Uninstaller.exe\" --uninstall=1 --sapCode=LTRM --productVersion=14.2 --productPlatform=win64 --productAdobeCode={LTRM-14.2-64-ADBEADBEADBEADBEADBEADB} --productName=\"Lightroom Classic\" --mode=1",
+        "executable": "C:\\Program Files\\Adobe\\Adobe Photoshop 2025\\Photoshop.exe",
         "install_path": "C:\\Program Files\\Adobe",
         "version": "14.2",
         "publisher": "Adobe Inc.",
@@ -1311,7 +971,7 @@
     },
     {
         "name": "Copilot",
-        "executable": "\"C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\150.0.4078.96\\Installer\\copilot_setup.exe\" --uninstall --mscopilot --channel=stable --system-level --verbose-logging",
+        "executable": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
         "install_path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
         "version": "150.0.4078.96",
         "publisher": "Microsoft Corporation",
@@ -1321,7 +981,7 @@
     },
     {
         "name": "Microsoft Edge",
-        "executable": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\151.0.4129.72\\Installer\\setup.exe\" --uninstall --msedge --channel=stable --system-level --verbose-logging",
+        "executable": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
         "install_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
         "version": "151.0.4129.72",
         "publisher": "Microsoft Corporation",
@@ -1330,18 +990,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Edge WebView2 Runtime",
-        "executable": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\151.0.4129.59\\Installer\\setup.exe\" --uninstall --msedgewebview --system-level --verbose-logging",
-        "install_path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-        "version": "151.0.4129.59",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Adobe Photoshop 2025",
-        "executable": "\"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\HDBox\\Uninstaller.exe\" --uninstall=1 --sapCode=PHSP --productVersion=26.4.1 --productPlatform=win64 --productAdobeCode={PHSP-26.4.1-64-ADBEADBEADBEADBEADBEA} --productName=\"Photoshop\" --mode=1",
+        "executable": "C:\\Program Files\\Adobe\\Adobe Photoshop 2025\\Photoshop.exe",
         "install_path": "C:\\Program Files\\Adobe\\Adobe Photoshop 2025",
         "version": "26.4.1.194",
         "publisher": "Adobe Inc.",
@@ -1351,7 +1001,7 @@
     },
     {
         "name": "Rainmeter",
-        "executable": "C:\\Program Files\\Rainmeter\\uninst.exe",
+        "executable": "C:\\Program Files\\Rainmeter\\Rainmeter.exe",
         "install_path": "C:\\Program Files\\Rainmeter",
         "version": "4.5.23",
         "publisher": "Rainmeter",
@@ -1361,7 +1011,7 @@
     },
     {
         "name": "Riot - Radical Image Optimization Tool",
-        "executable": "\"C:\\Program Files\\Riot\\uninstall.exe\"",
+        "executable": "",
         "install_path": ".",
         "version": null,
         "publisher": null,
@@ -1371,7 +1021,7 @@
     },
     {
         "name": "Steam",
-        "executable": "C:\\Program Files (x86)\\Steam\\uninstall.exe",
+        "executable": "",
         "install_path": ".",
         "version": "2.10.91.91",
         "publisher": "Valve Corporation",
@@ -1381,7 +1031,7 @@
     },
     {
         "name": "UXP WebView Support",
-        "executable": "\"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\HDBox\\Uninstaller.exe\" --uninstall=1 --sapCode=UXPW --productVersion=1.2.0 --productPlatform=win64 --productAdobeCode={UXPW-1.2.0-64-ADBEADBEADBEADBEADBEAD} --productName=\"UXP WebView Support\" --mode=1",
+        "executable": "C:\\Program Files\\Common Files\\Adobe\\Microsoft\\EdgeWebView\\msedgewebview2.exe",
         "install_path": "C:\\Program Files\\Common Files\\Adobe\\Microsoft\\EdgeWebView",
         "version": "1.2.0",
         "publisher": "Adobe Inc.",
@@ -1391,7 +1041,7 @@
     },
     {
         "name": "Windhawk v1.7.3",
-        "executable": "\"C:\\Program Files\\Windhawk\\uninstall.exe\"",
+        "executable": "C:\\Program Files\\Windhawk\\UI\\VSCodium.exe",
         "install_path": "C:\\Program Files\\Windhawk",
         "version": "1.7.3",
         "publisher": "Ramen Software",
@@ -1401,7 +1051,7 @@
     },
     {
         "name": "GameSDK Service",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{021d69c3-d686-4a94-8fb5-fd1ee782fb14}\\GameSDK.exe\"  /uninstall",
+        "executable": "",
         "install_path": ".",
         "version": "1.0.5.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -1410,48 +1060,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "14.44.35211.0",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "ASUS Aac_NBDT HAL",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{0ca47681-d391-4e38-9ba6-08f1610a6fa7}\\AacNBDTSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "2.5.40.0",
-        "publisher": "ASUSTek COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Windows Desktop Runtime - 6.0.6 (x86)",
-        "executable": "MsiExec.exe /X{0DAB7833-29AE-4689-A889-60562406B37D}",
-        "install_path": ".",
-        "version": "48.27.42342",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{0e3bb569-69d6-4c34-bff9-c2f81db5e5f0}\\VC_redist.x64.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "14.51.36247.0",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Autodesk App Manager",
-        "executable": "MsiExec.exe /X{0FC454BE-3FA9-40A2-B5F1-C15B3CE740AA}",
+        "executable": "C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk AppManager.bundle\\Contents\\Windows\\2016\\AppManager.exe",
         "install_path": "C:\\Program Files (x86)\\Autodesk",
         "version": "3.6.0",
         "publisher": "Autodesk",
@@ -1461,7 +1071,7 @@
     },
     {
         "name": "AURA lighting effect add-on",
-        "executable": "MsiExec.exe /I{1E2EA04B-FCA7-457E-B6F4-F33E1858E859}",
+        "executable": "",
         "install_path": ".",
         "version": "0.0.55",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -1471,7 +1081,7 @@
     },
     {
         "name": "Microsoft .NET Host FX Resolver - 6.0.6 (x86)",
-        "executable": "MsiExec.exe /X{299ECD7D-3BCD-49A5-A318-45BB25C5799A}",
+        "executable": "",
         "install_path": ".",
         "version": "48.27.42327",
         "publisher": "Microsoft Corporation",
@@ -1480,18 +1090,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 6.0.16 (x64)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{2a8d0f2b-911b-4b58-8252-46b29e7a4590}\\dotnet-runtime-6.0.16-win-x64.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "6.0.16.32323",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Framework Service",
-        "executable": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{339A6383-7862-46DA-8A9D-E84180EF9424}\\FrameworkServiceSetup.exe\" /uninstall",
+        "executable": "C:\\Program Files (x86)\\ASUS\\ArmouryDevice\\asus_framework.exe",
         "install_path": "C:\\Program Files (x86)\\ASUS\\ArmouryDevice",
         "version": "4.2.4.13",
         "publisher": "ASUSTeK Computer Inc.",
@@ -1501,7 +1101,7 @@
     },
     {
         "name": "WebAdvisor by McAfee",
-        "executable": "C:\\Program Files\\McAfee\\WebAdvisor\\Uninstaller.exe",
+        "executable": "C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe",
         "install_path": "C:\\Program Files\\McAfee\\WebAdvisor",
         "version": "4.1.2.110",
         "publisher": "McAfee, LLC",
@@ -1511,7 +1111,7 @@
     },
     {
         "name": "Epic Online Services",
-        "executable": "MsiExec.exe /X{3EDE1A59-59AE-4FB8-993F-04BFADCDAFAB}",
+        "executable": "",
         "install_path": ".",
         "version": "4.1.0",
         "publisher": "Epic Games, Inc.",
@@ -1520,18 +1120,8 @@
         "capabilities": null
     },
     {
-        "name": "Java Auto Updater",
-        "executable": "",
-        "install_path": ".",
-        "version": "2.8.471.9",
-        "publisher": "Oracle Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "HiLookVision",
-        "executable": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{4A939D2D-E8EB-4D0D-A71D-C981929677D7}\\setup.exe\" -runfromtemp -l0x0409  -removeonly",
+        "executable": "C:\\Program Files\\HiLookVision Station\\HiLookVision\\HiLookVision Client\\HiLookVision.exe",
         "install_path": "C:\\Program Files\\HiLookVision Station\\HiLookVision",
         "version": "2.7.1.51",
         "publisher": "company",
@@ -1541,7 +1131,7 @@
     },
     {
         "name": "Wondershare Helper Compact 2.6.0",
-        "executable": "\"C:\\Program Files (x86)\\Common Files\\Wondershare\\Wondershare Helper Compact\\unins000.exe\"",
+        "executable": "C:\\Program Files (x86)\\Common Files\\Wondershare\\Wondershare Helper Compact\\Wondershare Helper Compact.exe",
         "install_path": "C:\\Program Files (x86)\\Common Files\\Wondershare\\Wondershare Helper Compact",
         "version": "2.6.0",
         "publisher": "Wondershare",
@@ -1550,18 +1140,8 @@
         "capabilities": null
     },
     {
-        "name": "MySQL Installer",
-        "executable": "MsiExec.exe /I{54F1CB9C-91D9-4921-9283-54B0B23D82EB}",
-        "install_path": ".",
-        "version": "1.6.15.0",
-        "publisher": "Oracle Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "AURA Service",
-        "executable": "MsiExec.exe /I{56EEEF7D-0AE3-401A-898B-581719D005AE}",
+        "executable": "",
         "install_path": ".",
         "version": "3.10.10",
         "publisher": "ASUSTeK COMPUTER INC.",
@@ -1570,78 +1150,8 @@
         "capabilities": null
     },
     {
-        "name": "ASUS Ambient HAL",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{5f21a988-01f3-468f-a06e-0b13304d11cb}\\AacAmbientSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "7.20.0.0",
-        "publisher": "ASUSTeK COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "ASUS Keyboard HAL",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{6df9a8c3-1f55-4422-ac64-4cd95989a3cf}\\AacKbSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "1.2.55.0",
-        "publisher": "ASUSTek COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2005 Redistributable",
-        "executable": "MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
-        "install_path": ".",
-        "version": "8.0.61187",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "GameSDK Service",
-        "executable": "MsiExec.exe /I{7160DA8D-3F25-4F6E-ABC8-F693551D82FA}",
-        "install_path": ".",
-        "version": "1.0.5.0",
-        "publisher": "ASUSTek COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "ASUS Mouse HAL",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{7e046d7d-3f14-423f-b793-0cbc7def52ef}\\AacMouseSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "1.2.0.84",
-        "publisher": "ASUSTek COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Windows Desktop Runtime - 7.0.14 (x64)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{7f2c8be3-7757-4594-aead-09a5112e7725}\\windowsdesktop-runtime-7.0.14-win-x64.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "7.0.14.33020",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
-        "executable": "MsiExec.exe /X{8122DAB1-ED4D-3676-BB0A-CA368196543E}",
-        "install_path": ".",
-        "version": "12.0.40664",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "MySQL Documents",
-        "executable": "MsiExec.exe /I{84D5D8BA-B656-411D-85E6-6452430B8721}",
+        "executable": "",
         "install_path": "C:\\Program Files (x86)\\MySQL\\MySQL Documentation 8.0",
         "version": "8.0.43",
         "publisher": "Oracle Corporation",
@@ -1650,18 +1160,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 6.0.6 (x86)",
-        "executable": "MsiExec.exe /X{858CE52D-40EB-4BAF-959A-5AF4ACAEC818}",
-        "install_path": ".",
-        "version": "48.27.42327",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "ASUS Smart Display Control",
-        "executable": "MsiExec.exe /I{8714A8D1-0F08-4681-9DF6-A8C4607A58B4}",
+        "executable": "",
         "install_path": ".",
         "version": "2.10.0",
         "publisher": "ASUSTek COMPUTER INC.",
@@ -1670,28 +1170,8 @@
         "capabilities": null
     },
     {
-        "name": "InstallC Package",
-        "executable": "\"C:\\MinGW\\unins000.exe\"",
-        "install_path": "C:\\MinGW",
-        "version": "1.0",
-        "publisher": "Siddharth Bhatia",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Windows Desktop Runtime - 6.0.6 (x86)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{8a683f18-94a7-4665-ae48-bd663b522964}\\windowsdesktop-runtime-6.0.6-win-x86.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "6.0.6.31318",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Python Launcher",
-        "executable": "MsiExec.exe /X{8B8DEA15-D815-4CB1-AC10-4E7713F3DFA0}",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -1700,38 +1180,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211",
-        "executable": "MsiExec.exe /X{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}",
-        "install_path": ".",
-        "version": "14.44.35211",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523",
-        "executable": "MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
-        "install_path": ".",
-        "version": "9.0.30729.7523",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "ASUS Update Helper",
-        "executable": "MsiExec.exe /I{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}",
-        "install_path": ".",
-        "version": "1.3.107.159",
-        "publisher": "ASUSTeK Computer Inc.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "AI Noise Cancelation Audio Software",
-        "executable": "C:\\Program Files (x86)\\InstallShield Installation Information\\{ab5f014e-883d-470d-bc2d-127ef91e5611}\\Setup.exe -uninstall",
+        "executable": "",
         "install_path": ".",
         "version": "4.0.7",
         "publisher": "ASUSTek Computer Inc.",
@@ -1741,7 +1191,7 @@
     },
     {
         "name": "Adobe Refresh Manager",
-        "executable": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
+        "executable": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\AdobeARM.exe",
         "install_path": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0",
         "version": "1.8.0",
         "publisher": "Adobe Systems Incorporated",
@@ -1750,88 +1200,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135",
-        "executable": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}",
-        "install_path": ".",
-        "version": "11.0.61135",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Windows Desktop Runtime - 8.0.11 (x64)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{bd40e761-3e88-4202-9b53-26c6bed3d467}\\windowsdesktop-runtime-8.0.11-win-x64.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "8.0.11.34221",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135",
-        "executable": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
-        "install_path": ".",
-        "version": "11.0.61135",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
-        "executable": "MsiExec.exe /X{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}",
-        "install_path": ".",
-        "version": "14.44.35211",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "ASUS Aac_GmAcc HAL",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{c3219916-0c5a-483c-8b38-bdd71cf96365}\\AacGmAccSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "1.0.12.0",
-        "publisher": "ASUSTek COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual Basic/C++ Runtime (x86)",
-        "executable": "MsiExec.exe /X{C5E3A69D-D391-45A6-A8FB-00B01E2B010D}",
-        "install_path": ".",
-        "version": "1.1.0",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Python Launcher",
-        "executable": "MsiExec.exe /X{C7213DDA-56FA-4C9E-BA0C-1C907366F456}",
-        "install_path": ".",
-        "version": "3.13.2150.0",
-        "publisher": "Python Software Foundation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "AURA Service",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{c74e7336-6fc2-472d-b921-ba6f5e58bd59}\\AuraServiceSetup.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "3.10.10",
-        "publisher": "ASUSTeK COMPUTER INC.",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "MySQL Examples and Samples",
-        "executable": "MsiExec.exe /I{CB038036-2E9A-49BD-9C4B-46BA8264A103}",
+        "executable": "",
         "install_path": "C:\\Program Files (x86)\\MySQL\\Samples and Examples 8.0",
         "version": "8.0.43",
         "publisher": "Oracle Corporation",
@@ -1840,28 +1210,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft .NET Runtime - 8.0.21 (x64)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{cf83f56a-4c10-4d97-9594-0764dfeb96e3}\\dotnet-runtime-8.0.21-win-x64.exe\"  /uninstall",
-        "install_path": ".",
-        "version": "8.0.21.35325",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
-        "executable": "MsiExec.exe /X{D401961D-3A20-3AC7-943B-6139D5BD490A}",
-        "install_path": ".",
-        "version": "12.0.40664",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Microsoft ASP.NET Core 8.0.11 - Shared Framework (x64)",
-        "executable": "\"C:\\ProgramData\\Package Cache\\{dbee02ef-94f9-4820-9b96-574810fe553e}\\AspNetCoreSharedFrameworkBundle-x64.exe\"  /uninstall",
+        "executable": "",
         "install_path": ".",
         "version": "8.0.11.24521",
         "publisher": "Microsoft Corporation",
@@ -1871,7 +1221,7 @@
     },
     {
         "name": "Microsoft .NET Host - 6.0.6 (x86)",
-        "executable": "MsiExec.exe /X{EF65D851-B1AC-4911-B3A0-4BE7EC4FDAD8}",
+        "executable": "",
         "install_path": ".",
         "version": "48.27.42327",
         "publisher": "Microsoft Corporation",
@@ -1880,18 +1230,8 @@
         "capabilities": null
     },
     {
-        "name": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
-        "executable": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
-        "install_path": ".",
-        "version": "10.0.40219",
-        "publisher": "Microsoft Corporation",
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Autodesk Featured Apps",
-        "executable": "MsiExec.exe /X{F96ADB23-C383-463F-AEB6-B91CBD0F2898}",
+        "executable": "C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk AppManager.bundle\\Contents\\Windows\\2016\\AppManager.exe",
         "install_path": "C:\\Program Files (x86)\\Autodesk",
         "version": "3.6.0",
         "publisher": "Autodesk",
@@ -1901,7 +1241,7 @@
     },
     {
         "name": "WPTx64",
-        "executable": "MsiExec.exe /I{FD439F85-AD64-B3E5-9FC5-444AE8C8AF7B}",
+        "executable": "",
         "install_path": ".",
         "version": "10.1.19041.1",
         "publisher": "Microsoft",
@@ -1911,7 +1251,7 @@
     },
     {
         "name": "Antigravity 2.1.4",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Programs\\antigravity\\Uninstall Antigravity.exe\" /currentuser",
+        "executable": "",
         "install_path": ".",
         "version": "2.1.4",
         "publisher": "Google",
@@ -1921,7 +1261,7 @@
     },
     {
         "name": "BlueStacks Services",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Programs\\bluestacks-services\\Uninstall BlueStacksServices.exe\" /currentuser",
+        "executable": "",
         "install_path": ".",
         "version": "3.0.9",
         "publisher": "now.gg, Inc.",
@@ -1931,7 +1271,7 @@
     },
     {
         "name": "CapCut",
-        "executable": "C:\\Users\\hashir\\AppData\\Local\\CapCut\\Apps\\uninst.exe",
+        "executable": "",
         "install_path": ".",
         "version": "7.3.0.2974",
         "publisher": "Bytedance Pte. Ltd.",
@@ -1941,7 +1281,7 @@
     },
     {
         "name": "dyad",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\dyad\\Update.exe\" --uninstall",
+        "executable": "C:\\Users\\hashir\\AppData\\Local\\dyad\\app-0.31.0\\dyad.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Local\\dyad",
         "version": "0.31.0",
         "publisher": "Will Chen",
@@ -1951,7 +1291,7 @@
     },
     {
         "name": "MongoDB Compass",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\MongoDBCompass\\Update.exe\" --uninstall",
+        "executable": "C:\\Users\\hashir\\AppData\\Local\\MongoDBCompass\\app-1.49.4\\MongoDBCompass.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Local\\MongoDBCompass",
         "version": "1.49.8",
         "publisher": "MongoDB Inc",
@@ -1961,7 +1301,7 @@
     },
     {
         "name": "Postman x86_64 11.65.4",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Postman\\Update.exe\" --uninstall",
+        "executable": "C:\\Users\\hashir\\AppData\\Local\\Postman\\app-11.65.4\\Postman.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Local\\Postman",
         "version": "11.65.4",
         "publisher": "Postman",
@@ -1971,7 +1311,7 @@
     },
     {
         "name": "Riot Client ",
-        "executable": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --uninstall-product=Riot_Client --uninstall-patchline=",
+        "executable": "C:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
         "install_path": "C:\\Riot Games\\Riot Client",
         "version": null,
         "publisher": "Riot Games, Inc",
@@ -1981,7 +1321,7 @@
     },
     {
         "name": "Zoom Workplace",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\" /uninstall",
+        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Zoom\\bin\\ZoomOutlookMAPI\\ZoomOutlookMAPI64.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Zoom\\bin",
         "version": "7.0.6 (43848)",
         "publisher": "Zoom Communications, Inc.",
@@ -1991,7 +1331,7 @@
     },
     {
         "name": "Microsoft Visual Studio Code (User)",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\"",
+        "executable": "C:\\Users\\hashir\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Local\\Programs\\Microsoft VS Code",
         "version": "1.132.0",
         "publisher": "Microsoft Corporation",
@@ -2001,7 +1341,7 @@
     },
     {
         "name": "Python 3.13.7 (64-bit)",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Package Cache\\{9a46f6d0-8f11-4f8f-a23d-d617db01bbb6}\\python-3.13.7-amd64.exe\"  /uninstall",
+        "executable": "",
         "install_path": ".",
         "version": "3.13.7150.0",
         "publisher": "Python Software Foundation",
@@ -2011,7 +1351,7 @@
     },
     {
         "name": "Antigravity (User)",
-        "executable": "\"C:\\Users\\hashir\\AppData\\Local\\Programs\\Antigravity\\unins000.exe\"",
+        "executable": "C:\\Users\\hashir\\AppData\\Local\\Programs\\Antigravity\\Antigravity.exe",
         "install_path": "C:\\Users\\hashir\\AppData\\Local\\Programs\\Antigravity",
         "version": "1.21.9",
         "publisher": "Google",
@@ -2022,46 +1362,6 @@
     {
         "name": "Access",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Adobe Acrobat",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Adobe Lightroom Classic",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Lightroom Classic.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Adobe Photoshop 2025",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Photoshop 2025.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Brave",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Brave.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
         "version": null,
         "publisher": null,
@@ -2090,58 +1390,8 @@
         "capabilities": null
     },
     {
-        "name": "DB Browser (SQLite)",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DB Browser (SQLite).lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Epic Games Launcher",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Excel",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Google Chrome",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Microsoft Edge",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "OneDrive",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
         "version": null,
         "publisher": null,
@@ -2190,28 +1440,8 @@
         "capabilities": null
     },
     {
-        "name": "Rainmeter",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Rainmeter.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "spacedesk DRIVER Console",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\spacedesk DRIVER Console.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Virtual Assistant",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Virtual Assistant.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
         "version": null,
         "publisher": null,
@@ -2380,16 +1610,6 @@
         "capabilities": null
     },
     {
-        "name": "ODBC Data Sources (64-bit)",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Performance Monitor",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools",
@@ -2480,16 +1700,6 @@
         "capabilities": null
     },
     {
-        "name": "Android Studio",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Android Studio\\Android Studio.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Android Studio",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "CodeBlocks",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CodeBlocks\\CodeBlocks.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CodeBlocks",
@@ -2520,16 +1730,6 @@
         "capabilities": null
     },
     {
-        "name": "documentation",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086\\documentation.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "emu8086",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086\\emu8086.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086",
@@ -2542,16 +1742,6 @@
     {
         "name": "read me",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086\\read me.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "uninstall",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086\\uninstall.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\emu8086",
         "version": null,
         "publisher": null,
@@ -2620,29 +1810,9 @@
         "capabilities": null
     },
     {
-        "name": "Check For Updates",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Configure Java",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "IntelliJ IDEA 2025.2.3",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA 2025.2.3.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains",
         "version": null,
         "publisher": null,
         "category": null,
@@ -2700,58 +1870,8 @@
         "capabilities": null
     },
     {
-        "name": "MySQL Shell",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Shell.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "MySQL Workbench 8.0 CE",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Workbench 8.0 CE.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Install Additional Tools for Node.js",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Install Additional Tools for Node.js.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Node.js command prompt",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js command prompt.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Node.js",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Uninstall Node.js",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Uninstall Node.js.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js",
         "version": null,
         "publisher": null,
@@ -2780,49 +1900,9 @@
         "capabilities": null
     },
     {
-        "name": "Uninstall",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RIOT\\Uninstall.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RIOT",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Riot Client",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games\\Riot Client.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Steam",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Task Manager",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Documentation",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN",
         "version": null,
         "publisher": null,
         "category": null,
@@ -2870,28 +1950,8 @@
         "capabilities": null
     },
     {
-        "name": "VLC media player",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Windows PowerShell ISE (x86)",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Windows PowerShell ISE",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell",
         "version": null,
         "publisher": null,
@@ -2980,16 +2040,6 @@
         "capabilities": null
     },
     {
-        "name": "MySQL Installer - Community",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Installer - Community\\MySQL Installer - Community.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Installer - Community",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "MySQL 8.0 Command Line Client - Unicode",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0\\MySQL 8.0 Command Line Client - Unicode.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0",
@@ -3030,38 +2080,8 @@
         "capabilities": null
     },
     {
-        "name": "Uninstall HiLookVision",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HiLookVision Station\\HiLookVision\\Uninstall HiLookVision.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HiLookVision Station\\HiLookVision",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "DOSBox 0.74-3 (noconsole)",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\DOSBox 0.74-3 (noconsole).lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Screenshots & Recordings",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Screenshots & Recordings.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Uninstall",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Uninstall.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras",
         "version": null,
         "publisher": null,
@@ -3100,29 +2120,9 @@
         "capabilities": null
     },
     {
-        "name": "Install movie codec",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video\\Install movie codec.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Video instructions",
         "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video\\Video instructions.lnk",
         "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Autodesk Access",
-        "executable": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Autodesk\\Autodesk Access\\Autodesk Access.lnk",
-        "install_path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Autodesk\\Autodesk Access",
         "version": null,
         "publisher": null,
         "category": null,
@@ -3150,38 +2150,8 @@
         "capabilities": null
     },
     {
-        "name": "Antigravity",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Antigravity.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "BlueStacks Services",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\BlueStacks Services.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "File Explorer",
         "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Visual Studio Code",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code.lnk",
         "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs",
         "version": null,
         "publisher": null,
@@ -3240,26 +2210,6 @@
         "capabilities": null
     },
     {
-        "name": "CapCut",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CapCut\\CapCut.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CapCut",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "MongoDB Compass",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MongoDB Inc\\MongoDB Compass.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MongoDB Inc",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Postman",
         "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Postman\\Postman.lnk",
         "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Postman",
@@ -3310,39 +2260,9 @@
         "capabilities": null
     },
     {
-        "name": "Riot Client",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games\\Riot Client.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "FPJMCI",
         "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\FPJMCI.lnk",
         "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Rainmeter",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Rainmeter.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "Steam",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam",
         "version": null,
         "publisher": null,
         "category": null,
@@ -3380,26 +2300,6 @@
         "capabilities": null
     },
     {
-        "name": "Visual Studio Code",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
-        "name": "dyad",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Will Chen\\dyad.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Will Chen",
-        "version": null,
-        "publisher": null,
-        "category": null,
-        "icon": null,
-        "capabilities": null
-    },
-    {
         "name": "Windows PowerShell (x86)",
         "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
         "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell",
@@ -3410,32 +2310,612 @@
         "capabilities": null
     },
     {
-        "name": "Windows PowerShell",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell",
+        "name": "Adobe Express",
+        "executable": "AdobeSystemsIncorporated.AdobeCreativeCloudExpress_ynb6jyjzte8ga!App",
+        "install_path": ".",
         "version": null,
         "publisher": null,
-        "category": null,
+        "category": "uwp",
         "icon": null,
         "capabilities": null
     },
     {
-        "name": "Uninstall Zoom Workplace",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Uninstall Zoom Workplace.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom",
+        "name": "Adobe Express Photos",
+        "executable": "AdobeSystemsIncorporated.AdobePhotoshopExpress_mtcwf2zmmt10c!App",
+        "install_path": ".",
         "version": null,
         "publisher": null,
-        "category": null,
+        "category": "uwp",
         "icon": null,
         "capabilities": null
     },
     {
-        "name": "Zoom Workplace",
-        "executable": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Zoom Workplace.lnk",
-        "install_path": "C:\\Users\\hashir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom",
+        "name": "Armoury Crate",
+        "executable": "B9ECED6F.ArmouryCrate_qmba6cd70vzyy!App",
+        "install_path": ".",
         "version": null,
         "publisher": null,
-        "category": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "ASUS GlideX",
+        "executable": "B9ECED6F.Glidex_qmba6cd70vzyy!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Aura Creator",
+        "executable": "B9ECED6F.AURACreator_qmba6cd70vzyy!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Calculator",
+        "executable": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Camera",
+        "executable": "Microsoft.WindowsCamera_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Chess Online +",
+        "executable": "00141F67.CHESSFRIENDSONLINECHESS_8ykx2f62075fc!com.chessfriends.chessonline",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Click to Do",
+        "executable": "MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy!ClickToDoApp",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Clock",
+        "executable": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Defragment and Optimize Drives",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\dfrgui.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Dolby Access",
+        "executable": "DolbyLaboratories.DolbyAccess_rz1tebttyb220!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Family",
+        "executable": "MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Feedback Hub",
+        "executable": "Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Game Bar",
+        "executable": "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Get Help",
+        "executable": "https://java.com/help",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Get Started",
+        "executable": "MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WebExperienceHost",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Git FAQs (Frequently Asked Questions)",
+        "executable": "https://gitforwindows.org/faq",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Instagram",
+        "executable": "Facebook.InstagramBeta_8xx8rvfyw5nnt!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "LinkedIn",
+        "executable": "7EE7776C.LinkedInforWindows_w1wdnht996qgy!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Live captions",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\LiveCaptions.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Lively Wallpaper",
+        "executable": "12030rocksdanister.LivelyWallpaper_97hta09mmv6hy!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Magnifier",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\magnify.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Media Player",
+        "executable": "Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft 365 Copilot",
+        "executable": "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft Clipchamp",
+        "executable": "Clipchamp.Clipchamp_yxz26nhyzhsrt!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft Defender",
+        "executable": "Microsoft.6365217CE6EB4_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft News",
+        "executable": "Microsoft.BingNews_8wekyb3d8bbwe!AppexNews",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft Store",
+        "executable": "Microsoft.WindowsStore_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft Teams",
+        "executable": "MSTeams_8wekyb3d8bbwe!MSTeams",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Microsoft To Do",
+        "executable": "Microsoft.Todos_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "MyASUS",
+        "executable": "B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Node.js website",
+        "executable": "https://nodejs.org/",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Notepad",
+        "executable": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "NVIDIA Control Panel",
+        "executable": "NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Paint",
+        "executable": "Microsoft.Paint_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Phone Link",
+        "executable": "Microsoft.YourPhone_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Photos",
+        "executable": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Power Automate",
+        "executable": "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe!PAD.Console",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "PUBG BATTLEGROUNDS",
+        "executable": "steam://rungameid/578080",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Quick Assist",
+        "executable": "MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Realtek Audio Console",
+        "executable": "RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Recovery Drive",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\RecoveryDrive.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Settings",
+        "executable": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Snipping Tool",
+        "executable": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Solitaire & Casual Games",
+        "executable": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Sound Recorder",
+        "executable": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Steam Support Center",
+        "executable": "http://support.steampowered.com/",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Sticky Notes",
+        "executable": "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Telegram Desktop",
+        "executable": "TelegramMessengerLLP.TelegramDesktop_t4vj0pshhgkwm!Telegram.TelegramDesktop.Store",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Terminal",
+        "executable": "Microsoft.WindowsTerminal_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "TranslucentTB",
+        "executable": "28017CharlesMilette.TranslucentTB_v826wp6bftszj!TranslucentTB",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Visit Java.com",
+        "executable": "https://java.com/",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Voice access",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\voiceaccess.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Weather",
+        "executable": "Microsoft.BingWeather_8wekyb3d8bbwe!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "WhatsApp",
+        "executable": "5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Windows Backup",
+        "executable": "MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WindowsBackup",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Windows Memory Diagnostic",
+        "executable": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\MdSched.exe",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Windows Security",
+        "executable": "Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "Windows Tools",
+        "executable": "Microsoft.Windows.AdministrativeTools",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
+        "icon": null,
+        "capabilities": null
+    },
+    {
+        "name": "XBOX",
+        "executable": "Microsoft.GamingApp_8wekyb3d8bbwe!Microsoft.Xbox.App",
+        "install_path": ".",
+        "version": null,
+        "publisher": null,
+        "category": "uwp",
         "icon": null,
         "capabilities": null
     }

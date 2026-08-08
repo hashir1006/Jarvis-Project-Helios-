@@ -1,11 +1,12 @@
 from __future__ import annotations
 
+import shlex
 import winreg
 from pathlib import Path
 
-from jarvis.system.models import Application
 from jarvis.interfaces.base_scanner import BaseScanner
-
+from jarvis.system.models import Application
+from jarvis.system.resolver import ExecutableResolver
 
 UNINSTALL_KEYS = (
     r"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall",
@@ -16,7 +17,9 @@ UNINSTALL_KEYS = (
 class RegistryScanner(BaseScanner):
 
     def scan(self) -> list[Application]:
+
         apps: list[Application] = []
+        resolver = ExecutableResolver()
 
         hives = (
             winreg.HKEY_LOCAL_MACHINE,
@@ -38,7 +41,6 @@ class RegistryScanner(BaseScanner):
 
                     try:
                         subkey_name = winreg.EnumKey(key, i)
-
                         subkey = winreg.OpenKey(key, subkey_name)
 
                         name = self._read(subkey, "DisplayName")
@@ -48,31 +50,46 @@ class RegistryScanner(BaseScanner):
 
                         install_location = self._read(
                             subkey,
-                            "InstallLocation"
+                            "InstallLocation",
                         )
 
                         publisher = self._read(
                             subkey,
-                            "Publisher"
+                            "Publisher",
                         )
 
                         version = self._read(
                             subkey,
-                            "DisplayVersion"
+                            "DisplayVersion",
                         )
 
-                        uninstall_string = self._read(
-                            subkey,
-                            "UninstallString"
+                        uninstall_string = (
+                            self._read(
+                                subkey,
+                                "UninstallString",
+                            )
+                            or ""
                         )
+
+                        launch_target = ""
+
+                        if not self._is_bad_executable(uninstall_string):
+                            try:
+                                launch_target = shlex.split(uninstall_string)[0]
+                            except ValueError:
+                                launch_target = uninstall_string
+
+                        if not launch_target:
+                            launch_target = resolver.resolve(
+                                name,
+                                install_location or "",
+                            )
 
                         apps.append(
                             Application(
                                 name=name,
-                                executable=uninstall_string or "",
-                                install_path=Path(
-                                    install_location or ""
-                                ),
+                                executable=launch_target,
+                                install_path=Path(install_location or ""),
                                 publisher=publisher,
                                 version=version,
                             )
@@ -82,6 +99,24 @@ class RegistryScanner(BaseScanner):
                         continue
 
         return apps
+
+    @staticmethod
+    def _is_bad_executable(path: str) -> bool:
+
+        if not path:
+            return True
+
+        lower = path.lower()
+
+        bad_patterns = (
+            "unins",
+            "uninstall",
+            "msiexec",
+            "setup.exe",
+            "update.exe",
+        )
+
+        return any(pattern in lower for pattern in bad_patterns)
 
     @staticmethod
     def _read(key, value):

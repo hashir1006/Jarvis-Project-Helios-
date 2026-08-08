@@ -1,6 +1,8 @@
-from pathlib import Path
-import sys
+from __future__ import annotations
+
 import argparse
+import sys
+from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "src"
@@ -8,9 +10,7 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from jarvis.system.application_indexer import ApplicationIndexer
-from jarvis.system.search import ApplicationSearch
-from jarvis.system.launcher import ApplicationLauncher
+from jarvis.system.application_manager import ApplicationManager
 
 
 def main():
@@ -35,14 +35,13 @@ def main():
 
     args = parser.parse_args()
 
+    manager = ApplicationManager()
+
     match args.command:
 
         case "help":
-            print("""
-=========================
-JARVIS Developer CLI
-=========================
 
+            print("""
 Available commands
 
 help
@@ -52,7 +51,8 @@ open <application>
 """)
 
         case "index":
-            ApplicationIndexer().build()
+
+            manager.index()
 
         case "search":
 
@@ -60,9 +60,7 @@ open <application>
                 print("Usage: python scripts/dev.py search <application>")
                 return
 
-            search = ApplicationSearch()
-
-            results = search.search(args.argument)
+            results = manager.search(args.argument)
 
             if not results:
                 print("No matching applications found.")
@@ -71,8 +69,14 @@ open <application>
             print(f"\nFound {len(results)} application(s):\n")
 
             for i, app in enumerate(results, start=1):
+
                 print(f"[{i}] {app['name']}")
-                print(f"    Path: {app['install_path']}")
+
+                if app.get("category") == "uwp":
+                    print("    Type: Microsoft Store App")
+                else:
+                    print(f"    Path: {app['install_path']}")
+
                 print()
 
         case "open":
@@ -81,10 +85,10 @@ open <application>
                 print("Usage: python scripts/dev.py open <application>")
                 return
 
-            launcher = ApplicationLauncher()
-            launcher.open(args.argument)
+            manager.open(args.argument)
 
         case _:
+
             print(f"Unknown command: {args.command}")
 
 

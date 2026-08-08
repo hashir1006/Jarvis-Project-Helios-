@@ -1,5 +1,5 @@
-from pathlib import Path
 import tomllib
+from pathlib import Path
 
 
 class ConfigManager:
@@ -8,4 +8,3 @@ class ConfigManager:
 
         with open(config_path, "rb") as file:
             return tomllib.load(file)
-            

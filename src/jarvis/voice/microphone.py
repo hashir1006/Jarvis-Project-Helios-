@@ -10,9 +10,16 @@ class Microphone:
         self.device = sd.default.device
         print("[Microphone] Ready")
 
-    def list_devices(self):
+    def list_devices(self) -> list:
+
+        devices = list(sd.query_devices())
+
         print("\nAvailable Audio Devices:\n")
-        print(sd.query_devices())
+
+        for index, device in enumerate(devices):
+            print(f"[{index}] {device['name']}")
+
+        return devices
 
     def device_info(self):
         if self.device is None:

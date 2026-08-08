@@ -1,0 +1,1 @@
+result = operations.open("assets/test.txt")

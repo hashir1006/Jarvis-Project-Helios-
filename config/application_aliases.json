@@ -1,0 +1,33 @@
+{
+    "vscode": "Visual Studio Code",
+    "vs code": "Visual Studio Code",
+    "code": "Visual Studio Code",
+
+    "chrome": "Google Chrome",
+    "browser": "Google Chrome",
+
+    "cmd": "Command Prompt",
+    "command prompt": "Command Prompt",
+
+    "powershell": "PowerShell",
+    "ps": "PowerShell",
+
+    "notepad": "Notepad",
+
+    "explorer": "File Explorer",
+    "files": "File Explorer",
+
+    "calculator": "Calculator",
+    "calc": "Windows Calculator",
+
+    "paint": "Paint",
+
+    "terminal": "Terminal",
+    "wt": "Terminal",
+    "windows terminal": "Terminal",
+
+    "task manager": "Task Manager",
+    "taskmgr": "Task Manager",
+
+    "settings": "Settings"
+}

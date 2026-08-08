@@ -10,11 +10,7 @@ class SpeechToText:
     def __init__(self):
         print("[STT] Loading Whisper Model...")
 
-        self.model = WhisperModel(
-            "base",
-            device="cpu",
-            compute_type="int8"
-        )
+        self.model = WhisperModel("base", device="cpu", compute_type="int8")
 
         print("[STT] Model Ready")
 

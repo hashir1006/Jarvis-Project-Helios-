@@ -5,7 +5,6 @@ from pathlib import Path
 from jarvis.interfaces.base_scanner import BaseScanner
 from jarvis.system.models import Application
 
-
 START_MENU_PATHS = [
     Path(r"C:\ProgramData\Microsoft\Windows\Start Menu\Programs"),
     Path.home() / r"AppData\Roaming\Microsoft\Windows\Start Menu\Programs",

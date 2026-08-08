@@ -7,9 +7,7 @@ def test_stt():
 
     stt = SpeechToText()
 
-    text = stt.transcribe(
-        Path("assets/audio/recordings/test.wav")
-    )
+    text = stt.transcribe(Path("assets/audio/recordings/test.wav"))
 
     print(text)
 
