@@ -14,15 +14,24 @@ class Intent:
 class IntentParser:
 
     ACTIONS: ClassVar[dict[str, str]] = {
-        "open": "open",
-        "launch": "open",
-        "start": "open",
-        "close": "close",
-        "exit": "close",
-        "quit": "close",
-        "running": "status",
-        "status": "status",
-        "is": "status",
+    # Open
+    "open": "open",
+    "launch": "open",
+    "start": "open",
+    "run": "open",
+
+    # Close
+    "close": "close",
+    "exit": "close",
+    "quit": "close",
+    "stop": "close",
+    "terminate": "close",
+    "kill": "close",
+
+    # Status
+    "running": "status",
+    "status": "status",
+    "is": "status",
     }
 
     def parse(
@@ -40,7 +49,9 @@ class IntentParser:
         if action is None:
             return None
 
-        target = " ".join(words[1:]).strip()
+        target = " ".join(words[1:]).strip(
+         " .,!?;:"
+    )
 
         if not target:
             return None

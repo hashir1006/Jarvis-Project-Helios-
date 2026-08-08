@@ -1,4 +1,5 @@
 from __future__ import annotations
+from pathlib import Path
 
 import psutil
 
@@ -57,11 +58,11 @@ class ProcessManager:
         return False
 
     def close(
-        self,
-        query: str,
-    ) -> int:
+    self,
+    query: str,
+) -> int:
 
-        query = query.lower()
+        query = query.lower().strip()
 
         closed = 0
 
@@ -69,19 +70,42 @@ class ProcessManager:
 
             try:
 
-                name = (process.info["name"] or "").lower()
+                name = (
+                    process.info["name"] or ""
+                ).lower()
 
-                exe = (process.info["exe"] or "").lower()
+                exe = (
+                    process.info["exe"] or ""
+                ).lower()
 
-                if query in name or query in exe:
+                if (
+                    query == name
+                     or query == Path(name).stem
+                     or query in exe
+                ):
+
+                    print(
+                        f"[ProcessManager] Closing: "
+                        f"{name} "
+                        f"(PID {process.pid})"
+                    )
 
                     process.terminate()
 
                     try:
-                        process.wait(timeout=5)
+                        process.wait(
+                            timeout=5
+                        )
 
                     except psutil.TimeoutExpired:
+
+                        print(
+                            f"[ProcessManager] "
+                            f"Force killing PID {process.pid}"
+                        )
+
                         process.kill()
+                        process.wait(timeout=3)
 
                     closed += 1
 
@@ -90,5 +114,9 @@ class ProcessManager:
                 psutil.AccessDenied,
             ):
                 continue
+
+        print(
+            f"[ProcessManager] Closed {closed} process(es)."
+        )
 
         return closed

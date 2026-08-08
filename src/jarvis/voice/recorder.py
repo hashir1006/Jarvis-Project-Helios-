@@ -15,8 +15,15 @@ class Recorder:
         self.sample_rate = sample_rate
         self.channels = channels
 
-    def record(self, seconds: int, output_path: Path) -> Path:
-        print(f"[Recorder] Recording for {seconds} seconds...")
+    def record(
+    self,
+    seconds: int,
+    output_path: Path,
+) -> Path:
+
+        print(
+            f"[Recorder] Recording for {seconds} seconds..."
+        )
 
         audio = sd.rec(
             int(seconds * self.sample_rate),
@@ -27,10 +34,22 @@ class Recorder:
 
         sd.wait()
 
-        output_path.parent.mkdir(parents=True, exist_ok=True)
+        # Explicitly stop/release the recording stream
+        sd.stop()
 
-        sf.write(output_path, audio, self.sample_rate)
+        output_path.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
 
-        print(f"[Recorder] Saved: {output_path}")
+        sf.write(
+            output_path,
+            audio,
+            self.sample_rate,
+        )
+
+        print(
+            f"[Recorder] Saved: {output_path}"
+        )
 
         return output_path

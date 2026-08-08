@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from jarvis.voice.pyttsx3_tts import Pyttsx3TTS
 from jarvis.core.command_dispatcher import CommandDispatcher
 from jarvis.core.intent_parser import IntentParser
 from jarvis.voice.microphone import Microphone
@@ -13,6 +14,7 @@ class VoicePipeline:
 
     def __init__(self):
 
+        self.tts = Pyttsx3TTS()
         self.microphone = Microphone()
         self.recorder = Recorder()
         self.stt = SpeechToText()
@@ -61,21 +63,87 @@ class VoicePipeline:
 
     def run(self):
 
-        self.listen()
+        self.tts.speak("Helios is online.")
 
-        audio = self.record()
+        while True:
 
-        text = self.transcribe(audio)
+            self.listen()
 
-        print(f"[Pipeline] Recognized: {text}")
+            audio = self.record()
 
-        intent = self.understand(text)
+            text = self.transcribe(audio)
 
-        if intent is None:
-            print("[Pipeline] No intent recognized.")
-            return None
+            print(f"\nYou: {text}")
 
-        print(f"[Pipeline] Action : {intent.action}")
-        print(f"[Pipeline] Target : {intent.target}")
+            # Skip empty recognition
+            if not text.strip():
+                self.tts.speak("I didn't hear anything.")
+                continue
 
-        return self.execute(intent)
+            text_lower = text.lower().strip()
+
+            # -----------------------------
+            # Exit Helios
+            # -----------------------------
+
+            exit_phrases = (
+                "exit helios",
+                "quit helios",
+                "goodbye helios",
+                "shutdown helios",
+                "shut down helios",
+                "leave helios",
+                "bye helios",
+                "exit jarvis",
+                "quit jarvis",
+                "goodbye jarvis",
+                "shutdown jarvis",
+                "shut down jarvis",
+                "leave jarvis",
+                "bye jarvis",
+                "stop listening",
+            )
+
+            if any(
+                phrase in text_lower
+                for phrase in exit_phrases
+            ):
+                self.tts.speak("Goodbye.")
+                break
+
+            # -----------------------------
+            # Understand command
+            # -----------------------------
+
+            intent = self.understand(text)
+
+            if intent is None:
+                self.tts.speak(
+                    "Sorry, I didn't understand."
+                )
+                continue
+
+            print(f"Action : {intent.action}")
+            print(f"Target : {intent.target}")
+
+            # -----------------------------
+            # Execute command
+            # -----------------------------
+
+            result = self.execute(intent)
+
+            print(
+                f"[Pipeline] Result: "
+                f"success={result.success}, "
+                f"message={result.message}"
+            )
+
+            # -----------------------------
+            # Speak result
+            # -----------------------------
+
+            print("[Pipeline] Speaking...")
+
+            self.tts.speak(result.message)
+
+            print("[Pipeline] Speech finished.")
